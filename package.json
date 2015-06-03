@@ -1,0 +1,21 @@
+{
+    "name": "recursive-dir-files",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./recursive-dir-files.js",
+    "author": {
+        "name": "naval patel",
+        "email": "navalmca2009@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/naval/recursive-dir-files.git"
+    },
+    "bugs": {
+        "url": "http://github.com/naval/recursive-dir-files/issues"
+    }
+}
