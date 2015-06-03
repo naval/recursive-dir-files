@@ -1,7 +1,7 @@
 {
     "name": "recursive-dir-files",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "./recursive-dir-files.js",
     "author": {
         "name": "naval patel",

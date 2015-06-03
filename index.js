@@ -1,1 +1,1 @@
-module.export=require('./lib/recursive-dir-files');
+module.exports=require('./lib/recursive-dir-files');
