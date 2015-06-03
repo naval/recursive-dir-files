@@ -17,5 +17,14 @@
     },
     "bugs": {
         "url": "http://github.com/naval/recursive-dir-files/issues"
-    }
+    },
+    "devDependencies": {
+        "mocha": "1.17.x"
+    },
+    "keywords": [],
+    "private": false,
+    "scripts": {
+        "test": "./node_modules/mocha/bin/mocha --reporter spec"
+    },
+    "main": "./"
 }
