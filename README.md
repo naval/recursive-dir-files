@@ -16,7 +16,7 @@ Read recursive directories and files
     var  recursiveDirFiles= require('recursive-dir-files');
     
 
-    // create database dump sql file
+    // Read all directories and files
     var start = __dirname;
      recursiveDirFiles(start, function (err, dirs, files) {
             if (err) {
